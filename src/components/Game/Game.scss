@@ -1,0 +1,31 @@
+.game-page{
+    padding: 1em;
+    display: block;
+
+    img{
+        cursor: pointer;
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+}
+
+.modal-content{
+    background: none;
+    min-width: 400px;
+
+    button{
+        display: inline-block;
+        padding: 4px 16px;
+        border: none;
+        background: rgb(255, 83, 83);
+        color: white;
+        border-radius: 8px;
+    }
+
+    .block{
+        display: block;
+        padding-top: 8px;
+    }
+}
