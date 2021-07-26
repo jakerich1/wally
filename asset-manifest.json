@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wally/static/css/main.d28f81f0.chunk.css",
+    "main.js": "/wally/static/js/main.14638e6a.chunk.js",
+    "main.js.map": "/wally/static/js/main.14638e6a.chunk.js.map",
+    "runtime-main.js": "/wally/static/js/runtime-main.da737e5f.js",
+    "runtime-main.js.map": "/wally/static/js/runtime-main.da737e5f.js.map",
+    "static/js/2.633cde34.chunk.js": "/wally/static/js/2.633cde34.chunk.js",
+    "static/js/2.633cde34.chunk.js.map": "/wally/static/js/2.633cde34.chunk.js.map",
+    "static/js/3.73b61223.chunk.js": "/wally/static/js/3.73b61223.chunk.js",
+    "static/js/3.73b61223.chunk.js.map": "/wally/static/js/3.73b61223.chunk.js.map",
+    "index.html": "/wally/index.html",
+    "static/css/main.d28f81f0.chunk.css.map": "/wally/static/css/main.d28f81f0.chunk.css.map",
+    "static/js/2.633cde34.chunk.js.LICENSE.txt": "/wally/static/js/2.633cde34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da737e5f.js",
+    "static/js/2.633cde34.chunk.js",
+    "static/css/main.d28f81f0.chunk.css",
+    "static/js/main.14638e6a.chunk.js"
+  ]
+}
